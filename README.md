@@ -18,4 +18,4 @@ data to drive evidence-based decision-making, improving patient outcomes and ope
 📫 I am actively looking for **2025 full-time positions** in **Healthcare Data Scientist** and welcome connections via email or LinkedIn:
 
 - Email: gksdusql94
-- [LinkedIn: Yeonbi Han]([https://www.linkedin.com)](https://www.linkedin.com/in/yeonbi-han1994/)
+- [LinkedIn: Yeonbi Han](https://www.linkedin.com)](https://www.linkedin.com/in/yeonbi-han1994/)
