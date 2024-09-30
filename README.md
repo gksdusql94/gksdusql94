@@ -1,4 +1,4 @@
-👋 Hi, I’m @Yeonbi, a Korean Medicine Doctor and Data Science student at The Graduate Center, CUNY(City University of New York).
+👋 Hi, I’m @Yeonbi, a Korean Medicine Doctor and Data Science Master student at The Graduate Center, CUNY(City University of New York).
 
 👀 As a data-driven healthcare professional, I leverage my background as a medical doctor and my expertise in data science to tackle healthcare challenges. 
 
