@@ -1,4 +1,4 @@
-# 👋  Hi, I’m @Yeonbi Han, MD and Data Science Student in The City University of New York (CUNY) Graduate Center.
+## 👋  Hi, I’m @Yeonbi Han, MD and Data Science Student in The City University of New York (CUNY) Graduate Center.
 As a data-driven healthcare professional, I leverage my background as a medical doctor and my expertise in data science  to tackle healthcare challenges. My passion lies in extracting actionable insights from pharmaceutical and healthcare 
 data to drive evidence-based decision-making, improving patient outcomes and operational efficiencies.
 
