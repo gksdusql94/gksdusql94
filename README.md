@@ -19,3 +19,4 @@ data to drive evidence-based decision-making, improving patient outcomes and ope
 
 - Email: gksdusql94
 - [LinkedIn: Yeonbi Han](https://www.linkedin.com)](https://www.linkedin.com/in/yeonbi-han1994/)
+- https://yeonbi.com/ 
