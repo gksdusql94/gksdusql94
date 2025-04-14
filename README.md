@@ -8,10 +8,10 @@ data to drive evidence-based decision-making, improving patient outcomes and ope
 ### What Can I Offer
 🌱 My journey includes developing machine learning models to predict patient outcomes, analyzing clinical trial data, and collaborating on research to enhance healthcare systems' efficiency. My expertise spans across:
 
-- **Probability and Statistics**
+- **Probability and Statistics**: SPSS, SAS Programming
 - **Natural Language Processing (NLP)**
-- **Big Data Analysis & Algorithms**: Python (Scikit-learn, TensorFlow, PyTorch), R
-- **Data Visualization**: Python (Matplotlib, Seaborn), Tableau, R
+- **Big Data Analysis & Algorithms**: Python (Scikit-learn, TensorFlow, PyTorch, NLTK), R
+- **Data Visualization**: Python (Matplotlib, Seaborn), Tableau, R, SAS
 - **Machine Learning & AI**: Linear Regression, Logistic Regression, Support Vector Machine (SVM), k-Nearest Neighbors (kNN), Decision Tree, Ensembles, Recurrent Neural Networks (RNN), Convolutional Neural Networks (CNN)
 
 ### Reach Out to Me
