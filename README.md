@@ -1,9 +1,7 @@
 ### Facts About Me
-👋  Hi, I’m @Yeonbi Han, MD(DKM, Doctor ofr Korean Medicine) and Data Science Student in The City University of New York (CUNY) Graduate Center.
-As a data-driven healthcare professional, I leverage my background as a medical doctor and my expertise in data science  to tackle healthcare challenges. My passion lies in extracting actionable insights from pharmaceutical and healthcare 
-data to drive evidence-based decision-making, improving patient outcomes and operational efficiencies.
+👋 Hello, I'm Yeonbi Han. I hold a Doctor of Korean Medicine (MD, DKM) license and a Master’s degree in Data Science. I am currently pursuing a Ph.D. in Applied Mathematics and Statistics (Statistics Track) at Stony Brook University. I am passionate about leveraging healthcare data to support data-driven decision-making, with the goal of improving patient outcomes and enhancing the operational efficiency of clinical trials and pharmaceutical research.
 
-👀 I hold a bachelor’s degree in Medicine, as well as a bachelor’s in Computer Engineering and Artificial Intelligence. With 3 years of experience as a physician specializing in Oriental Medicine, my true passion lies in data and its ability to tell meaningful stories. I’m dedicated to bridging the gap between medicine and technology to create innovative healthcare solutions. I have worked as a Clinical Scientist Intern at Johnson & Johnson, where I analyzed medical data and built disease prediction models. Currently, I am a Data Science Intern at Rutgers, applying Natural Language Processing to healthcare data.
+👀 With clinical experience as a physician and a strong foundation in computer engineering and artificial intelligence, I focus on bridging the gap between medicine and data. At Johnson & Johnson, I worked as a Clinical Scientist Intern, where I analyzed medical data and developed disease prediction models. At Rutgers, I contributed to a healthcare data project applying Natural Language Processing (NLP) techniques to extract insights from unstructured data.
 
 ### What Can I Offer
 🌱 My journey includes developing machine learning models to predict patient outcomes, analyzing clinical trial data, and collaborating on research to enhance healthcare systems' efficiency. My expertise spans across:
